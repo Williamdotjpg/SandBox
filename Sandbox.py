@@ -1,5 +1,11 @@
 # Programmer: Will Holmes
-#Program: Sandbox
-#Date: 12.18.2025
+#Program: Sandbox - Varibles Branch
+#Date: 1.6.2026
 
-print("Hello World this is a sandbox for me to play around in")
+print("Lets make some Varibles")
+
+year = 2026
+name = "Will Holmes"
+age = 15
+
+print("My name is",name,"is it is the year",year,"I am",age,"years old!")
